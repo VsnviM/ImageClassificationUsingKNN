@@ -87,6 +87,4 @@ pip install numpy opencv-python scikit-learn scikit-image tensorflow matplotlib 
 
 ---
 
-### 📬 Contact
 
-For questions or suggestions, contact **Vaishnavi Mishra**.
